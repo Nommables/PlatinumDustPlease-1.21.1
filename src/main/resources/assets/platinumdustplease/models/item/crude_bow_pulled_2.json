@@ -1,0 +1,6 @@
+{
+  "parent": "platinumdustplease:item/crude_bow",
+  "textures": {
+    "layer0": "platinumdustplease:item/crude_bow_pulled_2"
+  }
+}
